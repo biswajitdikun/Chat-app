@@ -12,7 +12,9 @@ Get the foolwing :
      messagingSenderId: "",
      appId: "",
      measurementId: ""
-Save the file
+
+# Save the file
+
 In the repository :
 -npm install 
 -npm run
